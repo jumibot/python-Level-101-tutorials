@@ -1,2 +1,3 @@
 # python-Level-101-tutorials
-Code to start learning to program in python...
+Codigo con finalidad educativa, de nivel básico. Para programadores noveles en Python!
+
